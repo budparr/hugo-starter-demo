@@ -6,7 +6,7 @@ $ yarn install
 
 For right now, run `hugo server` separate from `npm run build-dev` but I'll fix that soon.
 
-
+Also still working on an issue where Livereload conflicts with Turbolinks, so if you're running local, you'll want to run `npm run build-dev` too. 
 ---
 
 The only thing different from one starter repo to another is the layouts folder and sample content.
