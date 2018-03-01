@@ -1,3 +1,14 @@
+### Start
+$ git clone --recursive https://github.com/theNewDynamic/hugo-starter-demo.git
+
+$ yarn install
+
+
+For right now, run `hugo server` separate from `npm run build-dev` but I'll fix that soon.
+
+
+---
+
 The only thing different from one starter repo to another is the layouts folder and sample content.
 
 For now, we need to add these (they are not a part of the repo because submodules are a pain if you don't want them)
